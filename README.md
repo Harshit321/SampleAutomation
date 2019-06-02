@@ -14,7 +14,7 @@ to change browser, there are 2 values - chrome or firefox
 
 To run testcases parallely, make the following changes to testng.xml
 
-"<suite name="Sample Test Automation" thread-count="3" parallel="methods">"
+"suite name="Sample Test Automation" thread-count="3" parallel="methods" "
   
 Reporting - Extent Report is supported
 
