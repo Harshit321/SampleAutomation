@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="TestSuite" time="111.152" errors="0" skipped="0">
+<testsuite tests="3" failures="0" name="TestSuite" time="103.786" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="11.0.2+9-LTS"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/lib"/>
     <property name="gopherProxySet" value="false"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/harshitkumar/eclipse-workspace/SampleAutomation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/harshitkumar/autothon/SampleAutomation"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/harshitkumar/eclipse-workspace/SampleAutomation"/>
+    <property name="user.dir" value="/Users/harshitkumar/autothon/SampleAutomation"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="11.0.2+9-LTS"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
@@ -64,7 +64,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.amazon.qa.testcases.ShoppingCartPageTest" name="shoppingCartTest" time="40.634"/>
-  <testcase classname="com.amazon.qa.testcases.HomePageTest" name="loginTest" time="35.252"/>
-  <testcase classname="com.amazon.qa.testcases.HomePageTest" name="logOutTest" time="35.266"/>
+  <testcase classname="com.amazon.qa.testcases.ShoppingCartPageTest" name="shoppingCartTest" time="33.909"/>
+  <testcase classname="com.amazon.qa.testcases.HomePageTest" name="loginTest" time="34.106"/>
+  <testcase classname="com.amazon.qa.testcases.HomePageTest" name="logOutTest" time="35.771"/>
 </testsuite>
